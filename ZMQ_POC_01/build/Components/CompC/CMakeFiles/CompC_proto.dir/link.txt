@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCompC_proto.a  CMakeFiles/CompC_proto.dir/CompC.pb.cc.o
+/usr/bin/ranlib libCompC_proto.a
